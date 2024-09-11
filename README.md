@@ -3,9 +3,10 @@
 
 ## 配置环境变量
 cp .env.example .env
+
 配置数据库类型
 
-## 使用入口
+## 使用示例
 python3 example.py
 
 
